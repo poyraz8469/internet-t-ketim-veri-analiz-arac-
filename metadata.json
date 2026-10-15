@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse - Ağ Trafik ve Bant Genişliği Yöneticisi",
+  "description": "Bilgisayarınız için ağ bazlı upload/download trafik takip aracı, anlık hız sınırlayıcı, kesinti bildirimleri ve yerel ağ cihaz tarayıcısı.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
